@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+what do i write in this
